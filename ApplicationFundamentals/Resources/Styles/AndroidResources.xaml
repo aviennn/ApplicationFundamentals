@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ApplicationFundamentals.Resources.Styles.AndroidResources">
+
+    <Color x:Key="PrimaryColor">#FF5722</Color>
+    <Color x:Key="SecondaryColor">#4CA000</Color>
+
+    <x:String x:Key="PrimaryFontFamily">Roboto</x:String>
+</ResourceDictionary>
